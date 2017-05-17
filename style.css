@@ -1,0 +1,75 @@
+body {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100vh;
+	width:100vw;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+div {
+	display: block;					
+}
+
+img {
+	position: relative;
+	left:10%;
+	vertical-align: middle;
+	text-align: center;
+	border: none;
+
+}
+
+p.small {
+	font-size: .8em;
+}
+
+p.center {
+	text-align: center;
+}
+
+p.right{
+	text-align: right;
+}
+
+span.icon {
+	text-align: center;
+	width: 150px;
+}
+.bold {
+	font-weight: bold;
+}
+
+.col-80 {
+	width: 75%;
+	margin:auto;
+}
+
+.otherprojects {
+	width: 100%;
+	margin: 1.5em auto;
+	text-align: left;
+
+}
+
+.otherprojects-item {
+	height: 175px;
+	min-width: 150px;
+	max-width: 300px;
+	line-height:175px;
+	float: left;
+	width: 24.75%
+}
+
+.link {
+	text-align: center;
+}
+ a:link {
+ 	text-decoration: none;
+ }
+
+ a.bottom {
+ 	margin-left:10px;
+ 	margin-right:10px;
+ }
+
